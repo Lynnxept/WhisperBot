@@ -14,7 +14,7 @@ if ENVIRONMENT:
     # https://stackoverflow.com/questions/62688256/sqlalchemy-exc-nosuchmoduleerror-cant-load-plugin-sqlalchemy-dialectspostgre
 else:
     # Fill the Values
-    API_ID = 0
-    API_HASH = ""
-    BOT_TOKEN = ""
-    DATABASE_URL = ""
+    API_ID = "12048156"
+    API_HASH = "51dd36b15c05a69f33f54296258212ae"
+    BOT_TOKEN = "5102687095:AAG9LdS7dfKoL_HejHOCKZfkf9GGdd6zIwo"
+    DATABASE_URL = "postgresql://postgres:gzhm5iSBaIe8VvaS2hXe@containers-us-west-42.railway.app:7099/railway"
